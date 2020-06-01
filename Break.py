@@ -7,3 +7,4 @@ for i in list1:
             pass
         print(i * j)
     print("Outside the nested loop")
+    print("This is my model")
